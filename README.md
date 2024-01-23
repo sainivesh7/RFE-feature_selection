@@ -15,3 +15,4 @@ The RFE using Seaborn Car Crashes Dataset project showcases the application of R
 Requirements
 Python 3.6 or later
 Seaborn
+sklearn
